@@ -1,4 +1,0 @@
-AddDefaultCharset Off
-<IfModule dir_module>
-    DirectoryIndex https://github.com/Giperion-x/giperion.github.io/blob/master/index.php
-</IfModule>
