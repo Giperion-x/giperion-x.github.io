@@ -21,5 +21,6 @@ h2 {
 }
 
 a {
+	text-shadow: 2px 2px 1px black;
 	text-decoration: none;
 }
