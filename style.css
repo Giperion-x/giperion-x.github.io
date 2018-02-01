@@ -19,3 +19,7 @@ h2 {
 .text {
 	text-align: center;
 }
+
+a {
+	text-decoration: none;
+}
