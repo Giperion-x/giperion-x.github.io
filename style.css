@@ -1,7 +1,21 @@
+
 h1 {
+	color:#00FFCC;
     text-shadow: 4px 4px 2px black;
 }
 
 h2 {
+	color: yellow;
     text-shadow: 3px 3px 1px black;
+}
+
+.way {
+	font-family: sans-serif;
+	color: #00FFCC;
+	font-size: 20px;
+	
+}
+
+.text {
+	text-align: center;
 }
